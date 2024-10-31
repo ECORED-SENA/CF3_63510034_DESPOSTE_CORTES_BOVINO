@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Calidad cárnica, topografía y cortes básicos de la canal delantera**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_63510034_DESPOSTE_CORTES_BOVINO/](https://ecored-sena.github.io/CF3_63510034_DESPOSTE_CORTES_BOVINO/)
 
 #
 

@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Calidad cárnica, topografía y cortes básicos de la canal delantera'
