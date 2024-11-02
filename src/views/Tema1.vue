@@ -2,16 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Factores que afectan la calidad de la carne
     .row.bg-c4
       .col-12
         .px-5
-          p.mb-5 La calidad de la carne puede clasificarse en dos grandes categorías según la percepción del cliente:
+          p.mb-5(data-aos="fade-right") La calidad de la carne puede clasificarse en dos grandes categorías según la percepción del cliente:
           .row.justify-content-center.mb-3
-            .col-lg-10
+            .col-lg-10(data-aos="fade-down")
               .row
                 .col-auto.d-none.d-lg-block.pe-0
                   figure
@@ -20,7 +20,7 @@
                   .p-3
                     p.mb-0 En primer lugar, el comprador se guía por el color del músculo y la grasa. Un tono muscular pálido o una grasa amarillenta generan menos confianza en comparación con una carne de color rojo y grasa blanca.
           .row.justify-content-center.mb-5
-            .col-lg-10
+            .col-lg-10(data-aos="fade-left")
               .row
                 .col-auto.d-none.d-lg-block.pe-0
                   figure
@@ -28,11 +28,11 @@
                 .col.bg-c6
                   .p-3
                     p.mb-0 En segundo lugar, el consumidor valora características como la terneza y jugosidad del producto cárnico.
-          p.mb-5 La calidad de la carne está influenciada por diversos factores, tanto internos como externos, que incluyen el manejo y almacenamiento. Los factores principales que determinan el grado de calidad son: especie, raza, alimentación, edad, sexo y zona anatómica.
+          p.mb-5(data-aos="fade-right") La calidad de la carne está influenciada por diversos factores, tanto internos como externos, que incluyen el manejo y almacenamiento. Los factores principales que determinan el grado de calidad son: especie, raza, alimentación, edad, sexo y zona anatómica.
     .row.bg-c7
       .col-12
         .p-5
-          .tarjeta.bg-white
+          .tarjeta.bg-white(data-aos="fade-down")
             .p-4.p-lg-5
               SlyderA(tipo="b")
                 .row.align-items-center.justify-content-center
