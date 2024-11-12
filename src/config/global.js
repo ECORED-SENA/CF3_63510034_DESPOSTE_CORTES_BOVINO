@@ -131,7 +131,7 @@ export default {
     {
       tema: 'Factores que afectan la calidad de la carne',
       referencia:
-        'Asocebu Colombia. (2020). Factores que afectan la calidad de la carne. [Archivo de video] Youtube.',
+        'Asocebu Colombia. (2020). Factores que afectan la calidad de la carne. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=_YdFTq2TLgA&ab_channel=AsocebuColombia',
@@ -163,7 +163,7 @@ export default {
     {
       tema: 'Osteología: estudio de los huesos',
       referencia:
-        'Jordano Castillo (2021). Sistema Óseo Bovino. [Archivo de video] Youtube.',
+        'Jordano Castillo (2021). Sistema Óseo Bovino. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=hcnz_7oTtkQ&ab_channel=JordanoCastillo',
@@ -171,7 +171,7 @@ export default {
     {
       tema: 'Cortes primarios de la canal bovina',
       referencia:
-        'Ecosistema de Recursos Educativos. (2018). Pasos para el desposte de una canal delantera bovina  [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos. (2018). Pasos para el desposte de una canal delantera bovina  [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Fc0-hgIVI58&t=2s',
     },
@@ -200,7 +200,7 @@ export default {
     {
       termino: 'PSE (<i>Pale Soft Exudative</i>)',
       significado:
-        'carne pálida, blanda y exudativa, resultado de estrés en el animal y un ph bajo.',
+        'carne pálida, blanda y exudativa, resultado de estrés en el animal y un pH bajo.',
     },
     {
       termino: 'Glucógeno',
@@ -403,11 +403,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        //{
-        //  nombre: 'Luis Gabriel Urueta Alvarez',
-        //  cargo: 'Validador y vinculador de recursos educativos digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         //{
         //  nombre: 'Jaime Hernán Tejada Llano',
         //  cargo: 'Validador y vinculador de recursos educativos digitales',

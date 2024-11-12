@@ -38,7 +38,7 @@
                 .row.align-items-center.justify-content-center
                   .col-lg-6.mb-4.mb-lg-0
                     p #[b Especie y raza]
-                    p.mb-0 Los bovinos se dividen en dos especies, Bos taurus y Bos indicus, ambas presentes en la población bovina de Colombia. Las razas de Bos taurus, como Aberdeen Angus, destacan por ofrecer una calidad cárnica superior.
+                    p.mb-0 Los bovinos se dividen en dos especies, #[i Bos taurus] y #[i Bos indicus], ambas presentes en la población bovina de Colombia. Las razas de #[i Bos taurus], como #[i Aberdeen Angus], destacan por ofrecer una calidad cárnica superior.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema1/img5.png', alt='', style="width: 350px").m-auto

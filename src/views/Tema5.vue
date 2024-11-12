@@ -21,7 +21,7 @@
           .col-12
             .p-4.bg-c12.mb-2(data-aos="fade-left")
               figure
-                img(src='@/assets/curso/tema5/img1.svg', alt='', style="width: 650px").m-auto
+                img(src='@/assets/curso/tema5/img1.svg', alt='La figura presenta un diagrama de un bovino, señalando las distintas partes del animal que se utilizan en la industria cárnica.  Incluyendo zonas como la aguja, costillar, falda, lomo alto, pecho, cadera, babilla, entre otras.', style="width: 650px").m-auto
             figcaption(data-aos="fade-down")
               p.mb-0 Nota. Scoolinary. (2022)
     .row.mb-4

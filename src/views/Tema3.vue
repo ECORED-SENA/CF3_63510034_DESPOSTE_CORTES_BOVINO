@@ -42,7 +42,7 @@
           tr(style="background-color: #E7EEFD")
             td Banda de transporte.
             td Incremento de microorganismos.
-            td Presencia de metal de cuchillos o de chairas, presencia de jabón por mal lavado.
+            td Presencia de metal de cuchillos o de #[i chairas], presencia de jabón por mal lavado.
             td Control del buen estado de las herramientas de trabajo, lavado y desinfección de instalaciones bajo lineamientos establecidos.
           tr(style="background-color: #F3F9FF")
             td Zona de empaque.

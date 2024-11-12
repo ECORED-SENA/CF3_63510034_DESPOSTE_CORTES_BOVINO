@@ -28,7 +28,7 @@
                     img(src='@/assets/curso/tema2/img1.svg', alt='', style='width: 40px')
                 .col
                   h3.mb-0 El estrés
-          p.mb-5(data-aos="fade-right") Durante el sacrificio, varios factores pueden afectar negativamente el producto final destinado al consumidor. El estrés pre-mortem en los animales puede provocar la liberación de grandes cantidades de adrenalina y un desgaste energético considerable. Las causas más comunes de estrés en bovinos de carne incluyen:
+          p.mb-5(data-aos="fade-right") Durante el sacrificio, varios factores pueden afectar negativamente el producto final destinado al consumidor. El estrés #[i pre-mortem] en los animales puede provocar la liberación de grandes cantidades de adrenalina y un desgaste energético considerable. Las causas más comunes de estrés en bovinos de carne incluyen:
           .row.justify-content-center
             .col-lg-10(data-aos="fade-down")
               .row
@@ -171,7 +171,7 @@
                         .p-4.bg-c13
                           p.mb-0 #[b Localización intermuscular]
                           p.mb-0 Entre las uniones musculares.
-    p.mb-5(data-aos="fade-right") El principal factor que afecta la presencia y composición de la grasa es la especie. La raza, edad y sexo también influyen en la cantidad de grasa. Las hembras tienden a acumular más grasa debido a su condición, y los machos castrados presentan mayores depósitos de grasa. Factores extrínsecos, como la alimentación, también impactan la acumulación de grasa.
+    p.mb-5(data-aos="fade-right") El principal factor que afecta la presencia y composición de la grasa es la especie. #[b La raza, edad y sexo también influyen en la cantidad de grasa]. Las hembras tienden a acumular más grasa debido a su condición, y los machos castrados presentan mayores depósitos de grasa. Factores extrínsecos, como la alimentación, también impactan la acumulación de grasa.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img10.png')})`}"
@@ -188,7 +188,7 @@
                   img(src='@/assets/curso/tema2/img1.svg', alt='', style='width: 40px')
               .col
                 h3.mb-0 Carbohidratos
-        p.mb-0 Los carbohidratos representan menos del 1 % de la carne, siendo el glucógeno el más importante. Este polímero de alfa-D-glucosa con enlaces (alfa 1-4) y (alfa 1-6) es la fuente de energía del músculo. Parte del glucógeno se consume durante el rigor mortis.
+        p.mb-0 Los carbohidratos representan menos del 1 % de la carne, siendo el glucógeno el más importante. Este polímero de alfa-D-glucosa con enlaces (alfa 1-4) y (alfa 1-6) es la fuente de energía del músculo. Parte del glucógeno se consume durante el #[i rigor mortis].
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img11.png', alt='', style="width: 450px").m-auto
@@ -216,7 +216,7 @@
           .col-12
             .p-4.bg-c14
               p #[b Contracción muscular y rigidez cadavérica]
-              p.mb-0 Se refiere a la conversión del músculo en carne. Este proceso implica la unión irreversible de las proteínas musculares actina y miosina, formando la actomiosina, lo que conocemos como rigor mortis.
+              p.mb-0 Se refiere a la conversión del músculo en carne. Este proceso implica la unión irreversible de las proteínas musculares actina y miosina, formando la actomiosina, lo que conocemos como #[i rigor mortis].
       .col-11.col-md-10.col-lg-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img13.png', alt='')
@@ -237,7 +237,7 @@
         p.mb-0 La carne, al contener un 75 % de agua, es un medio adecuado para el crecimiento de microorganismos. Es fundamental que la relación entre glucógeno y ácido láctico sea la correcta, ya que la acidez producida por el ácido láctico retrasa la proliferación de colonias microbianas, evitando cambios en la estructura, olor y la rancidez de la carne.
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Después de 3 o 4 días de almacenamiento en refrigeración (menos de 4 °C), la carne se vuelve más flácida debido a la "#[b resolución del rigor]", un proceso causado por la acción enzimática durante el periodo post-mortem que suaviza la carne.
+        p Después de 3 o 4 días de almacenamiento en refrigeración (menos de 4 °C), la carne se vuelve más flácida debido a la "#[b resolución del rigor]", un proceso causado por la acción enzimática durante el periodo #[i post-mortem] que suaviza la carne.
         .row
           .col-12
             .p-4.bg-c8
