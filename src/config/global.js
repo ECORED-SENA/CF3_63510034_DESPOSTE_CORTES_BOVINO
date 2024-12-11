@@ -299,13 +299,10 @@ export default {
     {
       referencia:
         'Monteiro, A. C. (2016). <i>Principales factores que afectan a la calidad de la carne bovina (II)</i>. ',
-      link:
-        'https://foroagroganadero.es/principales-factores-que-afectan-a-la-calidad-de-la-carne-bovina-ii/',
     },
     {
       referencia:
         'Peluffo, M., & Monteiro, M. (2002). <i>Terneza: Una característica a tener en cuenta</i>. ',
-      link: 'http://www.ipcva.com.ar/vertext.php?id=125',
     },
     {
       referencia:

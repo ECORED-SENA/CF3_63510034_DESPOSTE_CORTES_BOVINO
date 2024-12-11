@@ -38,11 +38,11 @@
             td Recibo de canales en cuarto de desposte.
             td Mal manejo de canales, presencia de grasa de las poleas transportadoras.
             td 
-            td Plan de mantenimiento de equipos de transporte, verificación de protocolos de Buenas Prácticas de Manipulación.
+            td Plan de mantenimiento de equipos de transporte, verificación de protocolos de buenas prácticas de manipulación.
           tr(style="background-color: #E7EEFD")
             td Banda de transporte.
             td Incremento de microorganismos.
-            td Presencia de metal de cuchillos o de #[i chairas], presencia de jabón por mal lavado.
+            td Presencia de metal de cuchillos o de chairas, presencia de jabón por mal lavado.
             td Control del buen estado de las herramientas de trabajo, lavado y desinfección de instalaciones bajo lineamientos establecidos.
           tr(style="background-color: #F3F9FF")
             td Zona de empaque.
@@ -72,7 +72,7 @@
                       figure.mb-3
                         img(src='@/assets/curso/tema3/img3.svg', alt='', style="width: 120px").m-auto
                       p.mb-0.text-center Zona de empaque
-          p.mb-5(data-aos="fade-right") El sistema #[b #[i HACCP]] debe seguir siete principios clave:
+          p.mb-5(data-aos="fade-right") El sistema #[b HACCP] debe seguir siete principios clave:
           .row
             .col-lg-5.mb-3.mb-lg-0(data-aos="fade-right")
               figure

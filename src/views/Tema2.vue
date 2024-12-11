@@ -13,7 +13,7 @@
         .row
           .col-12
             .p-3.bg-c8
-              p.mb-0 Si el glucógeno muscular es insuficiente debido a situaciones de estrés, el #[b pH final] de la carne puede ser alcalino, superando un potencial de hidrogeniones de 6.0. En este caso, se estaría hablando de carne DFD (#[i Dark Firm Dry]) o DFDB (#[i Dark Firm Dry Beef]), por su traducción, "#[b Carne de Res Oscura, Firme y Seca.]"
+              p.mb-0 Si el glucógeno muscular es insuficiente debido a situaciones de estrés, el #[b pH final] de la carne puede ser alcalino, superando un potencial de hidrogeniones de 6.0. En este caso, se estaría hablando de carne DFD (#[i Dark Firm Dry]) o DFDB (#[i Dark Firm Dry Beef]), por su traducción, "#[b Carne de Res Oscura, Firme y Seca]".
       .col-lg-5.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 450px").m-auto
